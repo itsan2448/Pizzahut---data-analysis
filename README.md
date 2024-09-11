@@ -10,5 +10,9 @@ The goal of this project is to analyze pizza sales data using SQL to extract act
     Examine order distribution by time and daily averages.
   Revenue Insights: 
     Determine revenue contributions of different pizza types and categories.
+
+__________________________________________________________________________________
+
 Data is sourced from [GitHub Repository: Pizza Sales SQL](https://github.com/Ayushi0214/pizza-sales---SQL). 
 This analysis will support strategic decisions on menu offerings, pricing, and promotions. 
+__________________________________________________________________________________
